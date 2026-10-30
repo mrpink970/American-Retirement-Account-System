@@ -54,18 +54,22 @@ The goal is not to make everyone equal. The goal is not to make everyone wealthy
 
 | Annual Wages | Private Account | S&D Pool | Floor Reserve | Public Safety Total |
 |---|---|---|---|---|
-| Up to $300,000 | 10.4% | 2.0% | 0.0% | 2.0% |
-| $300,000 - $1,000,000 | 7.4% | 3.0% | 2.0% | 5.0% |
-| $1,000,000 - $5,000,000 | 4.4% | 4.5% | 3.5% | 8.0% |
-| Over $5,000,000 | 2.4% | 5.0% | 5.0% | 10.0% |
+| Up to $250,000 | 10.0% | 2.0% | 0.4% | 2.4% |
+| $250,000 - $1,000,000 | 7.0% | 3.0% | 2.4% | 5.4% |
+| $1,000,000 - $5,000,000 | 4.0% | 4.5% | 3.9% | 8.4% |
+| Over $5,000,000 | 2.0% | 5.0% | 5.4% | 10.4% |
 
-**Principle:** Everyone pays the same total rate. As wages rise, a smaller share goes into the personal account and a larger share goes into the pooled programs. This prevents the system from becoming an unlimited tax-advantaged wealth transfer vehicle for high earners while preserving the full contribution rate for low and middle earners.
+**Principle:** Everyone pays the same total rate. As wages rise, a smaller share goes into the personal account and a larger share goes into the pooled programs. This prevents the system from becoming an unlimited tax-advantaged wealth transfer vehicle for high earners while preserving the full contribution rate for low and middle earners. Every worker contributes at least 0.4% to the Floor Reserve, giving the floor a universal funding base.
+
+**Threshold indexing:** All dollar thresholds in this Section are indexed annually by the National Average Wage Index (NAWI).
 
 **$5 Million Lifetime Balance Cap:**
 
 During the accumulation phase, if an individual's private ARAS account balance reaches a lifetime value of $5,000,000 (indexed annually for inflation), the account is considered Fully Capitalized. Once that cap is triggered, the worker's private account contribution rate drops instantly to 0%. Their entire 12.4% payroll contribution (along with the temporary surcharge, if applicable) is diverted entirely to the S&D Pool and the Floor Reserve Pool, split according to the board's current allocation. The cap applies only during the accumulation phase, before the account holder begins drawing from the account at age 62. After retirement, the account is governed by the withdrawal formula in Section 6 and is not subject to the cap.
 
-The board shall track each account balance and shall automatically trigger the Fully Capitalized status when an account balance reaches $5,000,000 (indexed) during the accumulation phase. Upon triggering, the board shall notify the centralized clearinghouse, which shall instruct the employer to redirect the private account contribution to the S&D Pool and Floor Reserve Pool in accordance with the scaled contribution table. The board shall publish an annual report on the number of accounts that have reached Fully Capitalized status and the total contributions diverted to the pools.
+For workers who have reached the $5M lifetime cap, the full 12.4% contribution (plus any applicable surcharge) shall be split between the S&D Pool and the Floor Reserve Pool according to the board's current allocation, within the guardrails specified in Section 3. The board shall publish the allocation annually.
+
+The board shall track each account balance and shall automatically trigger the Fully Capitalized status when an account balance reaches $5,000,000 (indexed) during the accumulation phase. Upon triggering, the board shall notify the centralized clearinghouse, which shall instruct the employer to redirect the private account contribution to the S&D Pool and Floor Reserve Pool in accordance with the board's current allocation. The board shall publish an annual report on the number of accounts that have reached Fully Capitalized status and the total contributions diverted to the pools.
 
 **Definition of Total Compensation:**
 
@@ -85,13 +89,13 @@ For purposes of this framework, "wages" or "total compensation" means all remune
 - Personal travel and transit, including corporate jet usage for non-business travel, personal luxury vehicles, and travel stipends.
 - Personal housing, corporate-owned luxury apartments, residential utilities, personal chefs, or domestic staff paid via the corporate ledger.
 
-This definition applies to all workers. However, the board shall focus enforcement and audit resources on individuals with total compensation exceeding $300,000, as low and middle earners have no incentive to reclassify income. The board shall have authority to issue regulations defining and interpreting this section and to prevent reclassification of compensation as non-wage income for the purpose of avoiding ARAS contributions.
+This definition applies to all workers. However, the board shall focus enforcement and audit resources on individuals with total compensation exceeding $250,000, as low and middle earners have no incentive to reclassify income. The board shall have authority to issue regulations defining and interpreting this section and to prevent reclassification of compensation as non-wage income for the purpose of avoiding ARAS contributions.
 
 **Section 2.4: Minimum Alternative Contribution (MAC) Evasion Penalty Surcharge:**
 
 The Minimum Alternative Contribution (MAC) functions as a punitive enforcement penalty to deter the artificial under-reporting or deceptive non-reporting of Total Compensation. The framework maintains no objection to the provision of corporate perquisites, life-comfort services, or executive security programs, provided such benefits are valued at fair market value under existing IRS fringe benefit valuation rules and documented transparently as earned compensation from the date of inception.
 
-**The Deceptive Trigger:** The MAC Penalty Surcharge shall automatically trigger if an individual's aggregated Total Compensation (inclusive of all base wages, equity, and corporate perquisites) exceeds the $300,000 threshold (as indexed) for the taxable year, but any portion of those compensatory life-comfort expenses or fringe benefits was hidden, un-reported, or left off the primary W-2 filing.
+**The Deceptive Trigger:** The MAC Penalty Surcharge shall automatically trigger if an individual's aggregated Total Compensation (inclusive of all base wages, equity, and corporate perquisites) exceeds the $250,000 threshold (as indexed) for the taxable year, but any portion of those compensatory life-comfort expenses or fringe benefits was hidden, un-reported, or left off the primary W-2 filing.
 
 **The Punitive Levy:** For individuals who report their Total Compensation transparently, contributions shall be processed under the standard, non-penalized progressive schedule in Section 2. For individuals who engage in deceptive non-reporting, their right to build private wealth on the hidden portion of their compensation is suspended for that taxable year. The un-reported Total Compensation shall be subjected to the baseline 12.4 percent ARAS contribution rate plus an additional 8 percent MAC Penalty Surcharge, enforcing a combined 20.4 percent penalty rate from the very first dollar of deception. All revenues generated by this penalty shall bypass private accounts entirely and be deposited 100 percent into the Floor Reserve Pool to secure the 28% NAWI safety floor.
 
@@ -151,7 +155,7 @@ The surcharge shall be deposited into the old system's annual cash flow and used
 - Minimum S&D: 2.0%
 - Minimum Floor: 0.0%
 
-For workers who have reached the $5 million lifetime balance cap, the full 12.4% contribution shall be split between the S&D pool and the Floor Reserve according to the board's current allocation.
+For workers who have reached the $5 million lifetime balance cap, the full 12.4% contribution shall be split between the S&D pool and the Floor Reserve according to the board's current allocation, within the guardrails specified above.
 
 **Administrative costs:** Paid by participants from account assets. Board may charge a fee not to exceed 0.10% of assets annually. If a higher fee is necessary, the board reports to Congress and justifies the increase. No administrative costs paid from general revenue. Voting system costs included in the administrative cost ratio and published separately.
 
@@ -405,6 +409,8 @@ Supplemental Security Income (SSI) and Medicare are outside the scope of this fr
 | Floor amount | 28% of NAWI, divided by 12. For 2025: $1,680.28/month |
 | Private account cap | $5,000,000 lifetime balance, indexed, accumulation phase only |
 | MAC penalty rate | 8% of hidden compensation, plus 12.4% base rate, total 20.4% |
+| Universal Floor Reserve contribution | 0.4% placeholder; subject to actuarial review |
+| High-earner threshold | $250,000, indexed by NAWI; applied to scaled table, audit focus, and MAC trigger |
 
 ---
 
@@ -421,6 +427,7 @@ Supplemental Security Income (SSI) and Medicare are outside the scope of this fr
 9. Terminal illness certification process (needs administrative design)
 10. Total compensation regulations (needs administrative design)
 11. MAC enforcement mechanism (needs administrative design)
+12. Universal Floor Reserve contribution calibration (0.4% placeholder)
 
 ---
 
