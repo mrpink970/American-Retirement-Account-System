@@ -23,22 +23,22 @@ The goal is not to make everyone equal. The goal is not to make everyone wealthy
 
 ## Section 1: Cohort Transition Schedule
 
-**Effective Date:** January 1, 2028 (or January 1 of the year following enactment).
+**Effective Date:** January 1, 2029 (or January 1 of the year following enactment).
 
 **Age Rule:** For all purposes under this framework, age is determined as of January 1 of each calendar year. Anyone whose birthday falls during that year is treated as having reached that age on January 1.
 
 **Cohort Schedule:**
 
-| Age on Jan 1, 2028 | Birth Year | Old System Contribution | Private Account Contribution |
+| Age on Jan 1, 2029 | Birth Year | Old System Contribution | Private Account Contribution |
 |---|---|---|---|
-| 51+ | 1976 or earlier | 100% | 0% |
-| 46-50 | 1977-1981 | 90% | 10% |
-| 41-45 | 1982-1986 | 80% | 20% |
-| 36-40 | 1987-1991 | 60% | 40% |
-| 31-35 | 1992-1996 | 40% | 60% |
-| 26-30 | 1997-2001 | 20% | 80% |
-| 21-25 | 2002-2006 | 10% | 90% |
-| 20 or younger | 2007 or later | 0% | 100% |
+| 51+ | 1977 or earlier | 100% | 0% |
+| 46-50 | 1978-1982 | 90% | 10% |
+| 41-45 | 1983-1987 | 80% | 20% |
+| 36-40 | 1988-1992 | 60% | 40% |
+| 31-35 | 1993-1997 | 40% | 60% |
+| 26-30 | 1998-2002 | 20% | 80% |
+| 21-25 | 2003-2007 | 10% | 90% |
+| 20 or younger | 2008 or later | 0% | 100% |
 
 **Principle:** No one currently receiving benefits or near retirement is affected. Transition is based on age at effective date. Rules are knowable from day one. The old system winds down gradually as cohorts age out.
 
@@ -99,12 +99,13 @@ The Minimum Alternative Contribution (MAC) functions as a punitive enforcement p
 
 | Annual Wages | Total Contribution | Surcharge to Old System |
 |---|---|---|
-| Up to $400,000 | 12.4% | 0% |
-| $400,000 - $600,000 | 13.4% | +1.0% |
-| $600,000 - $1M | 14.4% | +2.0% |
-| $1M - $2M | 15.4% | +3.0% |
-| $2M - $10M | 16.4% | +4.0% |
-| Over $10M | 17.4% | +5.0% |
+| Up to $250,000 | 12.4% | 0% |
+| $250,000 - $400,000 | 13.4% | +1.0% |
+| $400,000 - $600,000 | 14.4% | +2.0% |
+| $600,000 - $1M | 15.4% | +3.0% |
+| $1M - $2M | 16.4% | +4.0% |
+| $2M - $10M | 17.4% | +5.0% |
+| Over $10M | 18.4% | +6.0% |
 
 The surcharge is a temporary, transparent tax increase on high earners to fund the transition. It applies at full strength for the first 25 years. Beginning in year 26, each surcharge bracket shall phase down linearly by 1/25th of its original value per year, reaching zero in year 50.
 
