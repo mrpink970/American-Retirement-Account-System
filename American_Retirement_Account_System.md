@@ -23,22 +23,22 @@ The goal is not to make everyone equal. The goal is not to make everyone wealthy
 
 ## Section 1: Cohort Transition Schedule
 
-**Effective Date:** January 1, 2029 (or January 1 of the year following enactment).
+**Effective Date:** January 1 of the year following enactment.
 
 **Age Rule:** For all purposes under this framework, age is determined as of January 1 of each calendar year. Anyone whose birthday falls during that year is treated as having reached that age on January 1.
 
 **Cohort Schedule:**
 
-| Age on Jan 1, 2029 | Birth Year | Old System Contribution | Private Account Contribution |
-|---|---|---|---|
-| 51+ | 1977 or earlier | 100% | 0% |
-| 46-50 | 1978-1982 | 90% | 10% |
-| 41-45 | 1983-1987 | 80% | 20% |
-| 36-40 | 1988-1992 | 60% | 40% |
-| 31-35 | 1993-1997 | 40% | 60% |
-| 26-30 | 1998-2002 | 20% | 80% |
-| 21-25 | 2003-2007 | 10% | 90% |
-| 20 or younger | 2008 or later | 0% | 100% |
+| Age on Start Date | Old System Contribution | Private Account Contribution |
+|---|---|---|
+| 51+ | 100% | 0% |
+| 46-50 | 90% | 10% |
+| 41-45 | 80% | 20% |
+| 36-40 | 60% | 40% |
+| 31-35 | 40% | 60% |
+| 26-30 | 20% | 80% |
+| 21-25 | 10% | 90% |
+| 20 or younger | 0% | 100% |
 
 **Principle:** No one currently receiving benefits or near retirement is affected. Transition is based on age at effective date. Rules are knowable from day one. The old system winds down gradually as cohorts age out.
 
@@ -216,7 +216,7 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 | Annual adjustment | Recalculated each year based on actual balance |
 | Required minimum distributions | None |
 | Estate tax | Exempt |
-| Inheritability | 100% of remaining balance passes to heirs |
+| Inheritability | 100% of remaining balance passes to heirs (see Section 6.1) |
 | If you live past 90 | Minimum floor kicks in (subject to means test) |
 | Pooling | None |
 | Formula-setting | Board recalculates annually using mortality tables |
@@ -224,6 +224,14 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 **Withdrawal formula (for scoring purposes):**
 
 The monthly withdrawal shall be recalculated annually based on the account balance at the beginning of each year, the remaining months to age 90, and a nominal return assumption of 3% per year. The withdrawal shall be calculated using a standard annuity formula designed to deplete the account by age 90. If actual returns exceed the assumed rate, the following year's monthly withdrawal shall be adjusted upward accordingly. If actual returns fall short, the following year's monthly withdrawal shall be adjusted downward accordingly. If the recalculated withdrawal falls below the minimum floor threshold, the floor shall supplement the difference. Any remaining balance at death passes to designated beneficiaries.
+
+**Section 6.1: Inheritance and Beneficiary Election**
+
+Upon the death of an account holder, the remaining balance of the ARAS private account shall pass to designated beneficiaries. The beneficiary shall have a one-time election within 12 months of the account holder's death:
+
+(1) **Rollover:** The beneficiary may roll some or all of the balance into their own ARAS private account, free of tax and penalty. These funds remain subject to the standard ARAS withdrawal rules (locked until age 62) and count toward the beneficiary's $5 million lifetime balance cap.
+
+(2) **Cash Out:** The beneficiary may cash out some or all of the balance immediately. Any amount cashed out before the beneficiary reaches age 62 shall be subject to a 10% early withdrawal penalty. All penalty revenues generated shall be deposited directly into the Survivors & Disability (S&D) Pool and the Floor Reserve Pool in a 50/50 split.
 
 **Terminal illness exception:**
 
@@ -312,7 +320,7 @@ A worker with $3,000+/month from ARAS, plus legacy Social Security, plus a 401(k
 
 **Survivor/account interaction:**
 
-Survivor benefits under the S&D program shall be calculated and paid under the same rules as current Social Security survivor benefits, including the application of the family maximum. The private account balance of a deceased worker shall be paid to the designated beneficiaries in accordance with the account's inheritance rules. Receipt of a private account balance shall not reduce, offset, or otherwise affect the calculation or payment of S&D survivor benefits.
+Survivor benefits under the S&D program shall be calculated and paid under the same rules as current Social Security survivor benefits, including the application of the family maximum. The private account balance of a deceased worker shall be paid to the designated beneficiaries in accordance with the account's inheritance rules (Section 6.1). Receipt of a private account balance shall not reduce, offset, or otherwise affect the calculation or payment of S&D survivor benefits.
 
 ---
 
