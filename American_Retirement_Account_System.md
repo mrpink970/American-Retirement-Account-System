@@ -65,7 +65,7 @@ The goal is not to make everyone equal. The goal is not to make everyone wealthy
 
 **$5 Million Lifetime Balance Cap:**
 
-During the accumulation phase, if an individual's private ARAS account balance reaches a lifetime value of $5,000,000 (indexed annually for inflation), the account is considered Fully Capitalized. Once that cap is triggered, the worker's private account contribution rate drops instantly to 0%. Their entire 12.4% payroll contribution (along with the temporary surcharge, if applicable) is diverted entirely to the S&D Pool and the Floor Reserve Pool, split according to the board's current allocation. The cap applies only during the accumulation phase, before the account holder begins drawing from the account at age 62. After retirement, the account is governed by the withdrawal formula in Section 6 and is not subject to the cap.
+During the accumulation phase, if an individual's private ARAS account balance reaches a lifetime value of $5,000,000 (indexed annually for inflation), the account is considered Fully Capitalized. Once that cap is triggered, the worker's private account contribution rate drops instantly to 0%. Their entire 12.4% payroll contribution (along with the temporary surcharge, if applicable) is diverted entirely to the S&D Pool and the Floor Reserve Pool, split according to the board's current allocation. The cap applies only during the accumulation phase, before the account holder begins drawing from the account. After retirement, the account is governed by the withdrawal formula in Section 6 and is not subject to the cap.
 
 For workers who have reached the $5M lifetime cap, the full 12.4% contribution (plus any applicable surcharge) shall be split between the S&D Pool and the Floor Reserve Pool according to the board's current allocation, within the guardrails specified in Section 3. The board shall publish the allocation annually.
 
@@ -184,9 +184,10 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 | 55 | 30% | 70% |
 | 60 | 40% | 60% |
 | 65 | 50% | 50% |
-| 70+ | 60% | 40% |
+| 70+ (Accumulation Phase) | 60% | 40% |
+| **At Drawdown (Any Age)** | **100% G Fund (Government Securities)** | **0%** |
 
-**Principle:** The bond floor steps up by 10 percentage points every 5 years from age 50 to age 70, then caps at 60% for all ages above 70. This keeps 40% in stocks throughout retirement for inflation protection while maintaining substantial protection against a market crash. Account holders may choose a more conservative allocation than the floor requires but may not choose a less conservative allocation. The L Funds automatically comply with the mandatory glide path.
+**Principle:** The bond floor steps up by 10 percentage points every 5 years from age 50. However, **upon the commencement of withdrawals (at any age), the account is immediately and permanently shifted to 100% government securities (G Fund).** At the drawdown phase, the objective shifts entirely from growth to capital preservation. The account holder may not choose a higher stock allocation once withdrawals begin.
 
 **Pool investments:** The S&D pool and Floor Reserve use the same five funds. The board sets allocations within statutory guardrails (equities 40%-70% for S&D; 20%-50% for Floor). The board publishes an annual report showing current allocation, rationale for any changes, and projected solvency over 25, 50, and 75 years.
 
@@ -227,7 +228,7 @@ The monthly withdrawal shall be recalculated annually based on the account balan
 
 **Section 6.1: Inheritance and Beneficiary Election**
 
-Upon the death of an account holder, the remaining balance of the ARAS private account shall pass to designated beneficiaries. The beneficiary shall have a one-time election within 12 months of the account holder's death:
+Upon the death of an account holder, the remaining balance of the ARAS private account shall pass to designated beneficiaries. The beneficiary shall have a one-time election before the funds are moved:
 
 (1) **Rollover:** The beneficiary may roll some or all of the balance into their own ARAS private account, free of tax and penalty. These funds remain subject to the standard ARAS withdrawal rules (locked until age 62) and count toward the beneficiary's $5 million lifetime balance cap.
 
@@ -413,7 +414,7 @@ Supplemental Security Income (SSI) and Medicare are outside the scope of this fr
 | Surcharge phase-down | Linear, 1/25th of original value per year, zero at year 50 |
 | Floor liquid asset threshold | $50,000 individual, indexed by NAWI, range $25K-$100K |
 | Withdrawal formula | Annual recalculation, 3% nominal return, deplete at 90 |
-| Glide path | Stepped, capped at 60% bonds at age 70+ |
+| Glide path | Stepped, capped at 60% bonds at age 70+ during accumulation; 100% G Fund at drawdown |
 | Floor amount | 28% of NAWI, divided by 12. For 2025: $1,680.28/month |
 | Private account cap | $5,000,000 lifetime balance, indexed, accumulation phase only |
 | MAC penalty rate | 8% of hidden compensation, plus 12.4% base rate, total 20.4% |
