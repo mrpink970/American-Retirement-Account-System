@@ -65,9 +65,9 @@ The goal is not to make everyone equal. The goal is not to make everyone wealthy
 
 **$5 Million Lifetime Balance Cap:**
 
-During the accumulation phase, if an individual's private ARAS account balance reaches a lifetime value of $5,000,000 (indexed annually for inflation), the account is considered Fully Capitalized. Once that cap is triggered, the worker's private account contribution rate drops instantly to 0%. Their entire 12.4% payroll contribution (along with the temporary surcharge, if applicable) is diverted entirely to the S&D Pool and the Floor Reserve Pool, split according to the board's current allocation. The cap applies only during the accumulation phase, before the account holder begins drawing from the account. After retirement, the account is governed by the withdrawal formula in Section 6 and is not subject to the cap.
+During the accumulation phase, if an individual's private ARAS account balance reaches a lifetime value of $5,000,000 (indexed annually for inflation), the account is considered Fully Capitalized. Once that cap is triggered, the worker's private account contribution rate drops instantly to 0%. Their entire 12.4% payroll contribution is diverted entirely to the S&D Pool and the Floor Reserve Pool, split according to the board's current allocation. The cap applies only during the accumulation phase, before the account holder begins drawing from the account at age 62. After retirement, the account is governed by the withdrawal formula in Section 6 and is not subject to the cap.
 
-For workers who have reached the $5M lifetime cap, the full 12.4% contribution (plus any applicable surcharge) shall be split between the S&D Pool and the Floor Reserve Pool according to the board's current allocation, within the guardrails specified in Section 3. The board shall publish the allocation annually.
+For workers who have reached the $5M lifetime cap, the full 12.4% contribution shall be split between the S&D Pool and the Floor Reserve Pool according to the board's current allocation, within the guardrails specified in Section 3. The board shall publish the allocation annually.
 
 The board shall track each account balance and shall automatically trigger the Fully Capitalized status when an account balance reaches $5,000,000 (indexed) during the accumulation phase. Upon triggering, the board shall notify the centralized clearinghouse, which shall instruct the employer to redirect the private account contribution to the S&D Pool and Floor Reserve Pool in accordance with the board's current allocation. The board shall publish an annual report on the number of accounts that have reached Fully Capitalized status and the total contributions diverted to the pools.
 
@@ -161,6 +161,8 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 
 **Asset manager concentration:** No single asset manager may manage more than a statutory cap of total system assets. The cap is to be determined by modeling. Contracts rebid every 2 years.
 
+**Consolidated Administration (Section 3.1):** To minimize costs and maximize efficiency, the Fiduciary Board shall consolidate recordkeeping, custodial services, automated liquidation, and payment transfer functions under a single competitive contract, renewed every five years. No private entity shall be allowed to charge fees beyond the statutory 0.10% cap, and the Board shall publish an annual cost report comparing ARAS administrative costs to the TSP and the private 401(k) market.
+
 ---
 
 ## Section 4: Investment Menu
@@ -184,10 +186,10 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 | 55 | 30% | 70% |
 | 60 | 40% | 60% |
 | 65 | 50% | 50% |
-| 70+ (Accumulation Phase) | 60% | 40% |
-| **At Drawdown (Any Age)** | **100% G Fund (Government Securities)** | **0%** |
+| 70+ (Accumulation) | 60% | 40% |
+| **At Drawdown (Any Age)** | **80% G/F Fund (Bonds)** | **20% C Fund (Stocks)** |
 
-**Principle:** The bond floor steps up by 10 percentage points every 5 years from age 50. However, **upon the commencement of withdrawals (at any age), the account is immediately and permanently shifted to 100% government securities (G Fund).** At the drawdown phase, the objective shifts entirely from growth to capital preservation. The account holder may not choose a higher stock allocation once withdrawals begin.
+**Principle:** The bond floor steps up by 10 percentage points every 5 years from age 50. Upon the commencement of withdrawals, the account shifts to a target allocation of **80% bonds (G or F Fund) and 20% stocks (C Fund)**. This allocation is designed to provide long-term inflation protection while minimizing the risk of a catastrophic loss. The account holder may not choose a higher stock allocation once withdrawals begin.
 
 **Pool investments:** The S&D pool and Floor Reserve use the same five funds. The board sets allocations within statutory guardrails (equities 40%-70% for S&D; 20%-50% for Floor). The board publishes an annual report showing current allocation, rationale for any changes, and projected solvency over 25, 50, and 75 years.
 
@@ -226,13 +228,35 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 
 The monthly withdrawal shall be recalculated annually based on the account balance at the beginning of each year, the remaining months to age 90, and a nominal return assumption of 3% per year. The withdrawal shall be calculated using a standard annuity formula designed to deplete the account by age 90. If actual returns exceed the assumed rate, the following year's monthly withdrawal shall be adjusted upward accordingly. If actual returns fall short, the following year's monthly withdrawal shall be adjusted downward accordingly. If the recalculated withdrawal falls below the minimum floor threshold, the floor shall supplement the difference. Any remaining balance at death passes to designated beneficiaries.
 
-**Section 6.1: Inheritance and Beneficiary Election**
+**Section 6.1: The Private Account Contribution Adjustment (PACA) / The Ownership Credit**
+
+This is where the math gets tricky, but it is crucial for fairness. We cannot let someone divert 20% of their taxes into a private account and receive 100% of their old Social Security benefit. That would bankrupt the system.
+
+The ARAS framework uses a **Private Account Contribution Adjustment (PACA)**. Publicly, we call this the **Ownership Credit**. When you retire, the Social Security Administration calculates what your old benefit would have been. Then, they apply the PACA to reflect the taxes you diverted into your private account.
+
+**Example:** Let's say your old benefit would have been $2,000 a month. Because you diverted 20% of your contributions, your new legacy check might be $1,600 a month. But your private account (thanks to decades of compounding) might generate an additional $800 a month. Your total income is now $2,400. You didn't get a cut; you got an Ownership Credit that put you $400 ahead.
+
+**Section 6.2: Inheritance and Beneficiary Election**
 
 Upon the death of an account holder, the remaining balance of the ARAS private account shall pass to designated beneficiaries. The beneficiary shall have a one-time election before the funds are moved:
 
 (1) **Rollover:** The beneficiary may roll some or all of the balance into their own ARAS private account, free of tax and penalty. These funds remain subject to the standard ARAS withdrawal rules (locked until age 62) and count toward the beneficiary's $5 million lifetime balance cap.
 
 (2) **Cash Out:** The beneficiary may cash out some or all of the balance immediately. Any amount cashed out before the beneficiary reaches age 62 shall be subject to a 10% early withdrawal penalty. All penalty revenues generated shall be deposited directly into the Survivors & Disability (S&D) Pool and the Floor Reserve Pool in a 50/50 split.
+
+**Section 6.3: Drawdown Mechanics, Liquidity Buffer, and Automation**
+
+To ensure monthly annuity payments are never disrupted by market volatility and to minimize administrative costs, the ARAS board shall implement the following drawdown mechanics:
+
+(1) **Consolidated Administration:** The board shall consolidate recordkeeping, custodial services, automated liquidation, and payment transfers under a single competitive contract, renewed every five years. Administrative costs shall not exceed the statutory 0.10% fee cap.
+
+(2) **The Liquidity Buffer:** The system shall maintain a dedicated cash buffer for each account equivalent to at least 12 months of scheduled annuity payments. This buffer is held in a government-backed money market instrument or high-yield savings vehicle.
+
+(3) **Automated Pro-Rata Liquidation:** On a set date each month, the system shall automatically liquidate the required funds from the account's underlying assets. The liquidation shall be pro-rata based on the 80/20 bond-to-stock ratio, ensuring the target allocation is maintained. 
+
+(4) **Payment Transfer:** The proceeds from the liquidation are deposited into the Liquidity Buffer. On the first of the following month, the custodian transfers the exact annuity amount from the buffer directly into the retiree's personal checking account via ACH.
+
+(5) **24/7 Transparency:** The account holder shall have real-time access to their balance, the 80/20 allocation, the amount in the liquidity buffer, and the scheduled ACH transfer.
 
 **Terminal illness exception:**
 
@@ -321,7 +345,7 @@ A worker with $3,000+/month from ARAS, plus legacy Social Security, plus a 401(k
 
 **Survivor/account interaction:**
 
-Survivor benefits under the S&D program shall be calculated and paid under the same rules as current Social Security survivor benefits, including the application of the family maximum. The private account balance of a deceased worker shall be paid to the designated beneficiaries in accordance with the account's inheritance rules (Section 6.1). Receipt of a private account balance shall not reduce, offset, or otherwise affect the calculation or payment of S&D survivor benefits.
+Survivor benefits under the S&D program shall be calculated and paid under the same rules as current Social Security survivor benefits, including the application of the family maximum. The private account balance of a deceased worker shall be paid to the designated beneficiaries in accordance with the account's inheritance rules (Section 6.2). Receipt of a private account balance shall not reduce, offset, or otherwise affect the calculation or payment of S&D survivor benefits.
 
 ---
 
@@ -347,11 +371,11 @@ The existing Social Security trust fund shall remain with the old system. It sha
 
 **Current beneficiary funding:**
 
-Current beneficiaries and transition cohorts shall receive benefits calculated under the existing formula using their actual earnings record, subject to the legacy benefit phase-out for high-balance retirees specified in Section 7. The old system's obligations shall be funded first from remaining payroll tax contributions from transition cohorts, then from the Temporary Legacy Backfill Surcharge, then from the existing trust fund, and finally from general revenue as needed. Congress shall appropriate such sums as are necessary to ensure that no beneficiary receives an unexpected reduction in benefits during the transition period, other than the phase-out specified in Section 7. The framework does not prescribe a specific funding mechanism for any remaining transition shortfall; Congress shall determine the mix of revenue measures, spending offsets, or borrowing on an annual basis.
+Current beneficiaries and transition cohorts shall receive benefits calculated under the existing formula using their actual earnings record, subject to the Private Account Contribution Adjustment (PACA) specified in Section 6.1. The old system's obligations shall be funded first from remaining payroll tax contributions from transition cohorts, then from the Temporary Legacy Backfill Surcharge, then from the existing trust fund, and finally from general revenue as needed. Congress shall appropriate such sums as are necessary to ensure that no beneficiary receives an unexpected reduction in benefits during the transition period, other than the PACA. The framework does not prescribe a specific funding mechanism for any remaining transition shortfall; Congress shall determine the mix of revenue measures, spending offsets, or borrowing on an annual basis.
 
 **Transition cohort benefit formula:**
 
-Transition cohort members shall have their Social Security benefit calculated under the existing benefit formula using their actual earnings record, regardless of the contribution rate applicable during the transition period. The contribution rate determines where the money goes, not what the worker earned. The private account balance shall be paid separately. The legacy benefit phase-out for high-balance retirees specified in Section 7 shall apply.
+Transition cohort members shall have their Social Security benefit calculated under the existing benefit formula using their actual earnings record, regardless of the contribution rate applicable during the transition period. The contribution rate determines where the money goes, not what the worker earned. The private account balance shall be paid separately. The Private Account Contribution Adjustment (PACA) specified in Section 6.1 shall apply.
 
 **Long-term savings:**
 
@@ -414,7 +438,7 @@ Supplemental Security Income (SSI) and Medicare are outside the scope of this fr
 | Surcharge phase-down | Linear, 1/25th of original value per year, zero at year 50 |
 | Floor liquid asset threshold | $50,000 individual, indexed by NAWI, range $25K-$100K |
 | Withdrawal formula | Annual recalculation, 3% nominal return, deplete at 90 |
-| Glide path | Stepped, capped at 60% bonds at age 70+ during accumulation; 100% G Fund at drawdown |
+| Glide path | Stepped, capped at 60% bonds at age 70+ (accumulation); 80% bonds/20% stocks at drawdown |
 | Floor amount | 28% of NAWI, divided by 12. For 2025: $1,680.28/month |
 | Private account cap | $5,000,000 lifetime balance, indexed, accumulation phase only |
 | MAC penalty rate | 8% of hidden compensation, plus 12.4% base rate, total 20.4% |
