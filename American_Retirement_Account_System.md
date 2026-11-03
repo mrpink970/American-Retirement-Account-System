@@ -123,6 +123,27 @@ The surcharge shall be deposited into the old system's annual cash flow and used
 
 **Model:** Federal Thrift Savings Plan (TSP) structure, expanded to universal coverage.
 
+**The Fiduciary Board (Governance Structure):**
+
+To insulate the ARAS accounts from political interference, the governance structure shall mirror the statutory structure of the Federal Retirement Thrift Investment Board (5 U.S.C. § 8472), with enhanced term limits to prevent political capture.
+
+**(1) Composition:** The Board shall consist of five part-time members and one full-time Executive Director.
+
+**(2) Appointment (The Bipartisan Lock):**
+- **Three members** shall be appointed by the President, with the advice and consent of the Senate. No more than two of these members may be from the same political party.
+- **Two members** shall be appointed by the President based on recommendations from the Speaker of the House and the Senate Majority Leader (in consultation with the minority leaders). These two members must be from different political parties.
+
+**(3) Staggered Terms (The Anti-Capture Rule):**
+- Each member shall serve a single, non-renewable term of **nine years**.
+- The terms shall be staggered so that one seat expires every **18 months**.
+- If a vacancy occurs due to death or resignation, the replacement shall serve only the remainder of the unexpired term. No ad-hoc appointments may be made outside the fixed schedule.
+
+**(4) Fiduciary Duty:** The members of the Board shall discharge their responsibilities **solely in the interest of ARAS participants and beneficiaries**. They are legally prohibited from considering political, social, or donor-driven objectives.
+
+**(5) Investment Prohibition:** The Board may not direct the Executive Director to invest ARAS funds in a specific asset or to dispose of a specific asset. Their role is to set the broad index-fund policies, not to pick winners and losers.
+
+**(6) Removal:** Members may be removed by the President only for cause (neglect of duty or malfeasance), not at will. 
+
 **Key features:**
 
 - Independent fiduciary board, legally bound to act solely in participants' interest
@@ -219,7 +240,7 @@ For workers who have reached the $5 million lifetime balance cap, the full 12.4%
 | Annual adjustment | Recalculated each year based on actual balance |
 | Required minimum distributions | None |
 | Estate tax | Exempt |
-| Inheritability | 100% of remaining balance passes to heirs (see Section 6.1) |
+| Inheritability | 100% of remaining balance passes to heirs (see Section 6.2) |
 | If you live past 90 | Minimum floor kicks in (subject to means test) |
 | Pooling | None |
 | Formula-setting | Board recalculates annually using mortality tables |
@@ -242,7 +263,7 @@ Upon the death of an account holder, the remaining balance of the ARAS private a
 
 (1) **Rollover:** The beneficiary may roll some or all of the balance into their own ARAS private account, free of tax and penalty. These funds remain subject to the standard ARAS withdrawal rules (locked until age 62) and count toward the beneficiary's $5 million lifetime balance cap.
 
-(2) **Cash Out:** The beneficiary may cash out some or all of the balance immediately. Any amount cashed out before the beneficiary reaches age 62 shall be subject to a 10% early withdrawal penalty. All penalty revenues generated shall be deposited directly into the Survivors & Disability (S&D) Pool and the Floor Reserve Pool in a 50/50 split.
+(2) **Cash Out:** The beneficiary may cash out some or all of the balance immediately. Any amount cashed out shall be subject to a 10% early withdrawal penalty and shall lose its tax-exempt status, becoming subject to ordinary income tax. There are no age exceptions to this rule. All penalty revenues generated shall be deposited directly into the Survivors & Disability (S&D) Pool and the Floor Reserve Pool in a 50/50 split.
 
 **Section 6.3: Drawdown Mechanics, Liquidity Buffer, and Automation**
 
@@ -286,7 +307,7 @@ Each account holder shall have secure, real-time access to their account balance
 
 | Feature | Design |
 |---|---|
-| Qualification | Account depleted OR insufficient balance at retirement, AND total retirement income below floor threshold, AND liquid assets below board-set threshold |
+| Qualification | Account depleted OR insufficient balance at retirement, AND total retirement income below floor threshold, AND liquid assets below board-set threshold, AND has not previously used the terminal illness early withdrawal option |
 | Floor amount | 28% of the National Average Wage Index (NAWI), divided by 12 |
 | Funding | Floor Reserve pool, backed by general revenue if depleted |
 | Phase-out | Income and asset test as specified; no floor for those with substantial means |
