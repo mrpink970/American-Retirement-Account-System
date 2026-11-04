@@ -1,4 +1,5 @@
-# American Retirement Account System (ARAS)
+   **Read the plain-English breakdown of this framework on Substack: [https://independentframeworks.substack.com](https://independentframeworks.substack.com)**
+   # American Retirement Account System (ARAS)
 
 A framework for transitioning the retirement portion of Social Security to privately owned, inheritable personal accounts, while preserving disability and survivors benefits as a pooled program and providing a minimum floor for those who outlive their accounts or whose accounts are insufficient.
 
